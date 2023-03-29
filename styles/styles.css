@@ -1,0 +1,36 @@
+body{
+    background-color: #DBE4C6;
+  }
+
+  hr{
+    /* background-color:  #DBE4C6; */
+    border-color: #7AA874;
+    border-width:5px;
+    border-style: dotted none none;
+    width:5%;
+  }
+
+  h1, h2, h3, h4{
+    color: #7AA874;
+  }
+
+
+  /************************************************CLASS and ID SELECTORS*******************************************************/
+
+
+  .contact{
+    text-decoration: none;
+  }
+
+  .myPic{
+    height: 150px;
+    border-color: #7AA874;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+
+   img:hover{
+    scale: 1.15;
+  }
