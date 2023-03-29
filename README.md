@@ -1,3 +1,3 @@
 # my-personal-website
 
-This is a pure HTML portfolio website I created inspired by some of the personal websites of legendary Computer scientists like Jon Kleinberg, Tim Berners Lee.
+This is a HTML and CSS portfolio website I created with some pseudo classes sprinkled. Nice learning. 
